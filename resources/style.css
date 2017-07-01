@@ -1,10 +1,9 @@
-Body {
-    color: black;
-    
+body {
+background-color: black;    
 }
 
 
-h1 {
+.header {
     
     font-family: Verdana;
     font-weight: normal;
